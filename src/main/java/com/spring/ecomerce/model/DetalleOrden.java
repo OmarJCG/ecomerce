@@ -95,8 +95,6 @@ public class DetalleOrden {
                 ", cantidad=" + cantidad +
                 ", precio=" + precio +
                 ", total=" + total +
-                ", orden=" + orden +
-                ", producto=" + producto +
                 '}';
     }
 }

@@ -132,8 +132,6 @@ public class Usuario {
                 ", telefono='" + telefono + '\'' +
                 ", tipo='" + tipo + '\'' +
                 ", password='" + password + '\'' +
-                ", productos=" + productos +
-                ", ordenes=" + ordenes +
                 '}';
     }
 }

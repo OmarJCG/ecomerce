@@ -99,8 +99,6 @@ public class Orden {
                 ", fechaCreacion=" + fechaCreacion +
                 ", fechaRecibida=" + fechaRecibida +
                 ", total=" + total +
-                ", usuario=" + usuario +
-                ", detalle=" + detalle +
                 '}';
     }
 }
